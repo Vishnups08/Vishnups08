@@ -19,18 +19,10 @@
 ---
 
 ### 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,react,nodejs,php,mysql,mongodb,git,github,vscode,figma,xampp,aws,docker,jenkins,flutter,firebase)](https://skillicons.dev)
 
-```bash
-💻 Languages:       Python | JavaScript | Java | C++
-🌐 Web:             HTML | CSS | React.js | Node.js | PHP
-🧠 AI/ML:           Scikit-learn | TensorFlow | OpenCV | HuggingFace
-🛢️ Database:        MySQL | MongoDB | Snowflake
-🛠️ Tools:           Git | GitHub | Postman | VS Code | Figma | XAMPP
-☁️ Cloud & DevOps:  AWS | Render | Netlify | GitHub Actions
-```
-
-📈 GitHub Stats
-<p align="center"> <img src="![](https://nirzak-streak-stats.vercel.app/?user=Vishnups08&theme=merko&hide_border=false)">
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=Vishnups08&theme=merko&hide_border=false)<br/>
 
 🌍 Connect With Me
 <p align="left"> <a href="https://linkedin.com/in/vishnups" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> <a href="https://github.com/Vishnups08" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="mailto:vishnu.email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
