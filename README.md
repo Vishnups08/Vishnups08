@@ -25,7 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,react,nodejs,php,mysql,mongodb,git,github,vscode,figma,xampp,aws,docker,jenkins,flutter,firebase)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Vishnups08&theme=merko&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Vishnups08&theme=default&hide_border=false)<br/>
 
 ## 🏆 Achievements
 🥇 Finalist @ Smart India Hackathon 2024
