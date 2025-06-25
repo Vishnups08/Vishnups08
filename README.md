@@ -1,4 +1,4 @@
-![1](https://github.com/user-attachments/assets/a6bde096-e741-41a6-bb97-33585924f231)
+![banner](https://github.com/user-attachments/assets/edb33325-e832-4b34-ad01-6b56cf24518b)
 
 <h1 align="center">Hi there 👋, I'm Vishnu P S</h1>
 <h3 align="center">🚀 Passionate Developer | 🎓 Engineering Student | 💡 Building Tech </h3>
