@@ -30,10 +30,10 @@
 ```
 
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vishnups08&show_icons=true&theme=radical" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=VISHNU-GITHUB-USERNAME&theme=radical" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNU-GITHUB-USERNAME&layout=compact&theme=radical" width="48%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vishnups08&show_icons=true&theme=radical" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnups08&theme=radical" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnups08&layout=compact&theme=radical" width="48%" /> </p>
 
 🌍 Connect With Me
-<p align="left"> <a href="https://linkedin.com/in/vishnups" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> <a href="https://github.com/VISHNU-GITHUB-USERNAME" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="mailto:vishnu.email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/vishnups" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> <a href="https://github.com/Vishnups08" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="mailto:vishnu.email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
 
 🏆 Achievements
 🥇 Finalist @ Smart India Hackathon 2024
