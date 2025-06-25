@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Vishnu P S</h1>
-<h3 align="center">🚀 Passionate Developer | 🎓 Engineering Student | 💡 Building Tech for Good</h3>
+<h3 align="center">🚀 Passionate Developer | 🎓 Engineering Student | 💡 Building Tech </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;AI+%7C+ML+Enthusiast;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
