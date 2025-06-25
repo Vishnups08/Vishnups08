@@ -30,7 +30,7 @@
 ```
 
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VISHNU-GITHUB-USERNAME&show_icons=true&theme=radical" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=VISHNU-GITHUB-USERNAME&theme=radical" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNU-GITHUB-USERNAME&layout=compact&theme=radical" width="48%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vishnups08&show_icons=true&theme=radical" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=VISHNU-GITHUB-USERNAME&theme=radical" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNU-GITHUB-USERNAME&layout=compact&theme=radical" width="48%" /> </p>
 
 🌍 Connect With Me
 <p align="left"> <a href="https://linkedin.com/in/vishnups" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> <a href="https://github.com/VISHNU-GITHUB-USERNAME" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="mailto:vishnu.email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
@@ -48,12 +48,6 @@
 <p align="left"> <a href="https://github.com/VISHNU-GITHUB-USERNAME/secure-vault"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHNU-GITHUB-USERNAME&repo=secure-vault&theme=radical" /></a> <a href="https://github.com/VISHNU-GITHUB-USERNAME/legal-doc-simplifier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHNU-GITHUB-USERNAME&repo=legal-doc-simplifier&theme=radical" /></a> </p>
 
 💡 Quote I Live By
-"The best way to predict the future is to create it." — Alan Kay
+"The best way to predict the future is to create it."
 
 ---
-
-### ✅ What to Update:
-
-- Replace all `VISHNU-GITHUB-USERNAME` with your **GitHub username**.
-- Replace email and social links with your actual info.
-- Customize the pinned project URLs or add your own repositories. 
