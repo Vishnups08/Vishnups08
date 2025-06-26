@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I love breaking down complex tech into simple ideas 🌱
 
 ---
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Vishnups08&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
