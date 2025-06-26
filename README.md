@@ -19,6 +19,7 @@
 
 ---
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Vishnups08&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🛠️ Tech Stack
@@ -28,13 +29,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Vishnups08&theme=default&hide_border=false)<br/>
 
 ## 🏆 Achievements
-🥇 Finalist @ Smart India Hackathon 2024
+🏅 Received a Certificate of Merit in Prodothon 2022, organized by BNMIT, Bengaluru
 
-🛡️ Built Intrusion Detection System with 99.3% accuracy
+🥈 Secured 2nd Place in a hackathon conducted by Pantech eLearning Pvt. Ltd
 
-🧠 Developed AI tools using GPT-4 and Transfer Learning
-
-🌐 Built scalable full-stack platforms for education & finance
+🏅 Ranked among the Top 25 teams (23rd place) out of 150+ teams across India in the Techxcelerate National Hackathon conducted by BITS Pilani, Hyderabad Campus
 
 
 ### ✍️ Quote
