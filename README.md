@@ -27,6 +27,7 @@
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Vishnups08&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnups08&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 Achievements
 🏅 Received a Certificate of Merit in Prodothon 2022, organized by BNMIT, Bengaluru
