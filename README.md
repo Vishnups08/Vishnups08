@@ -34,6 +34,8 @@
 
 🥈 Secured 2nd Place in a hackathon conducted by Pantech eLearning Pvt. Ltd
 
+🏅Secured 1st Place in a best Project conducted by Pantech eLearning Pvt. Ltd
+
 🏅 Ranked among the Top 25 teams (23rd place) out of 150+ teams across India in the Techxcelerate National Hackathon conducted by BITS Pilani, Hyderabad Campus
 
 
