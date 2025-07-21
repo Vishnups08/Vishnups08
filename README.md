@@ -1,6 +1,6 @@
 ![banner](https://github.com/user-attachments/assets/edb33325-e832-4b34-ad01-6b56cf24518b)
 
-<h1 align="center">Hi there 👋, I'm Vishnu P S</h1>
+<h1 align="center">Hi there 👋, I'm Vishnu</h1>
 <h3 align="center">🚀 Passionate Developer | 🎓 Engineering Student | 💡 Building Tech </h3>
 
 <p align="center">
